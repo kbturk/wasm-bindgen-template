@@ -1,1 +1,0 @@
-C:\Users\Katherine\Documents\_Rust\ Projects\wasm-bindgen-hello-world\target\wasm32-unknown-unknown\debug\hello_world.wasm: C:\Users\Katherine\Documents\_Rust\ Projects\wasm-bindgen-hello-world\src\lib.rs build.rs

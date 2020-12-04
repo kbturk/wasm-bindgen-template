@@ -11,6 +11,7 @@ the original compiled example here.][compiled]
 
 <h2>Instructions:</h2>
 <ul>
+<li>Make sure you have wasm-bidgen and wasm-bindgen-cli installed (Cargo install ...)</li>
 <li>Initially, add wasm32-unknown-unknown to toolchain. This should only have to be done once:
 
     ```
